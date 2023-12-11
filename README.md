@@ -3,19 +3,16 @@
 <p align="center">
   <img alt="Version" src="https://img.shields.io/github/v/tag/kyuuzou/repository-readme-template?label=version" />
   <a href="https://github.com/kyuuzou/repository-readme-template/issues" target="_blank">
-     <img alt="GitHub issues" src ="https://img.shields.io/github/issues-raw/kyuuzou/repository-readme-template" />
-  </a>
+     <img alt="GitHub issues" src ="https://img.shields.io/github/issues-raw/kyuuzou/repository-readme-template" /></a>
   <a href="https://github.com/kyuuzou/repository-readme-template/pulls" target="_blank">
-   <img alt="GitHub pull requests" src ="https://img.shields.io/github/issues-pr-raw/kyuuzou/repository-readme-template" />
-  </a>
+   <img alt="GitHub pull requests" src ="https://img.shields.io/github/issues-pr-raw/kyuuzou/repository-readme-template" /></a>
   <img alt="GitHub last commit" src ="https://img.shields.io/github/last-commit/kyuuzou/repository-readme-template" />
 </p>
 <p align="center">
   <a href="https://www.codacy.com/gh/kyuuzou/repository-readme-template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kyuuzou/repository-readme-template&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/0e148b21eaa742448a210882d88a9f0c"/></a>
   <a href="https://unity3d.com/get-unity/download/archive" target="_blank"><img src="https://img.shields.io/badge/Unity-2021.3-blue" /></a>
   <a href="https://github.com/kyuuzou/repository-readme-template/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  </a>
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
 </p>
 
 ## Description
